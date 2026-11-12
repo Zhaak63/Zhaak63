@@ -14,11 +14,6 @@
 
 ### 🚀 Projects
 
-<div align="center">
-<a href="https://github.com/Zhaak63/Wumi-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhaak63&repo=Wumi-Bot&hide_border=true&bg_color=0c0d1c&title_color=62b8ff&icon_color=a9b4f2&text_color=c9cdeb" alt="Wumi-Bot"></a>
-<a href="https://github.com/Zhaak63/Rukko"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhaak63&repo=Rukko&hide_border=true&bg_color=0c0d1c&title_color=62b8ff&icon_color=a9b4f2&text_color=c9cdeb" alt="Rukko"></a>
-</div>
-
 - 🤖 **[Wumi](https://github.com/Zhaak63/Wumi-Bot)**: the cutest all-in-one Discord bot. Moderation, anti-nuke, levels, economy, music, tickets, and **Wumi Run**, a platformer you play right inside Discord.
 - 🌐 **[wumi.fr](https://wumi.fr)**: Wumi's website ([source](https://github.com/Zhaak63/Wumi)), with live commands, a dashboard, a status page and free Discord tools.
 - 🎯 **[Rukko](https://github.com/Zhaak63/Rukko)**: a fast-paced FPS played directly through Discord, inspired by Krunker.io.
@@ -40,8 +35,7 @@
 ### 📊 Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zhaak63&show_icons=true&hide_border=true&bg_color=0c0d1c&title_color=62b8ff&icon_color=a9b4f2&text_color=eef0fc" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaak63&layout=compact&hide_border=true&bg_color=0c0d1c&title_color=62b8ff&text_color=eef0fc" alt="Top languages">
+<img src="https://streak-stats.demolab.com?user=Zhaak63&theme=dark&hide_border=true&background=0C0D1C&ring=62B8FF&fire=F8BD2C&currStreakNum=EEF0FC&sideNums=EEF0FC&currStreakLabel=62B8FF&sideLabels=A9B4F2&dates=6F76A8" alt="GitHub streak">
 </div>
 
 ---
