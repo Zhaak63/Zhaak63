@@ -2,7 +2,7 @@
 
 # Hey, I'm Zhaak 👋
 
-**I build Discord bots, games and Minecraft plugins** · creator of [**Wumi**](https://wumi.fr) 🤖
+**I build Discord bots, games and Minecraft plugins** · founder of [**Wumi Team**](https://github.com/WumiTeam) 🤖
 
 [![Website](https://img.shields.io/badge/wumi.fr-161935?style=for-the-badge&logo=googlechrome&logoColor=62b8ff)](https://wumi.fr)
 [![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VaGrXgnAHS)
@@ -14,7 +14,7 @@
 
 ### 🚀 Projects
 
-- 🤖 **[Wumi](https://github.com/Zhaak63/Wumi-Bot)**: the cutest all-in-one Discord bot. Moderation, anti-nuke, levels, economy, music, tickets, and **Wumi Run**, a platformer you play right inside Discord.
+- 🤖 **[Wumi](https://github.com/WumiTeam/Wumi-Bot)**: the cutest all-in-one Discord bot. Moderation, anti-nuke, levels, economy, music, tickets, and **Wumi Run**, a platformer you play right inside Discord.
 - 🌐 **[wumi.fr](https://wumi.fr)**: Wumi's website ([source](https://github.com/Zhaak63/Wumi)), with live commands, a dashboard, a status page and free Discord tools.
 - 🎯 **[Rukko](https://github.com/Zhaak63/Rukko)**: a fast-paced FPS played directly through Discord, inspired by Krunker.io.
 - 🖼️ **[Role Icon Downloader](https://github.com/Zhaak63/Role-Icon-Downloader)**: download role icons, emojis and stickers from any Discord server as a ZIP, right in your browser.
